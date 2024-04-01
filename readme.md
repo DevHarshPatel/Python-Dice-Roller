@@ -4,10 +4,15 @@ The project is SIMPLE, FUN, INTERESTING
 
 It uses the following PYTHON concepts:
 Randomising
+
 While loops
+
 For loop
+
 Input
+
 ASCII art(not particularly a python concept)
+
 Conditional Statements
 
 It first ask for the number of rolls of the dice you want .
